@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jojodm997
+- 👀 I’m interested in hacking api
+- 🌱 I’m currently learning api
+- 💞️ I’m looking to collaborate on open source project
