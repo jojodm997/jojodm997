@@ -1,1 +1,1 @@
-👋 Greetings, I'm FauzanDM – an API hacker and seasoned full-stack developer. With 5 months of coding, I specialize in crafting seamless digital experiences, diving deep into APIs, and building robust applications. Check out my GitHub for a glimpse into my innovation-driven projects. Let's collaborate and create coding magic! 🚀🌐
+
