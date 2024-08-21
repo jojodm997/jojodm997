@@ -7,4 +7,4 @@ I'm Fauzan - i'm Software Engineer, I'm interested in Web Development and Linux,
   </a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/{jojodm997}/{jojodm997}/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
