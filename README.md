@@ -5,7 +5,7 @@ I'm Fauzan - i'm Software Engineer, I'm interested in Web Development and Linux,
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mint,neovim,postgres,linux,git,docker"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=rails,ruby,js"/>
+    <img src="https://skillicons.dev/icons?i=bash,rails,ruby,js"/>
   </a>
 </p>
 
